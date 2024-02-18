@@ -11,3 +11,6 @@ Immergiti nel classico gioco arcade con il nostro Python Snake Game! Utilizzando
 ## Tecnologie Utilizzate 💻
 - **Python**
 - **Pygame**
+
+## PS
+E' stato il mio primo programmino in python, perdonatemi il mancato utilizzo di classi e la poca ottimizzazione del codice. :( 
