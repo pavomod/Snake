@@ -1,7 +1,7 @@
 # Snake 🐍
 
 ## Introduzione 🚀
-Immergiti nel classico gioco arcade con il nostro Python Snake Game! Utilizzando la libreria Pygame, ho ricreato l'intramontabile gioco del serpente.
+Questo progetto permette di giocare al classico gioco arcade Snake.
 
 ## Caratteristiche Principali 📋
 - **Arcade**: Rivivi il divertimento del classico gioco Snake, guidando il serpente attraverso lo schermo alla ricerca di cibo e cercando di evitare collisioni con te stesso.
